@@ -51,6 +51,7 @@ function Home() {
               🔗 https://albiongg.com/
             </LinkText>
             <LinkText
+              className="text-gray-500"
               onClick={() => {
                 navigate('/project');
               }}
