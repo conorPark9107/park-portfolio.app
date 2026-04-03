@@ -11,7 +11,7 @@ function Home() {
         <Profile>
           <Image className="object-cover scale-90" src="/me.jpg" />
           <MainText>
-            안녕하세요. 저는 XXX입니다. <br />
+            안녕하세요. 저는 박종복입니다. <br />
             저는 새로운 것을 배우고, 직접 구현해보는 것을 즐기는 개발자입니다.
           </MainText>
         </Profile>
