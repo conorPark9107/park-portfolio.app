@@ -1,7 +1,6 @@
 import { styled } from 'styled-components';
 import Skills from './Skills';
 import { useNavigate } from 'react-router-dom';
-import { AiOutlineArrowRight } from 'react-icons/ai';
 
 function Home() {
   const navigate = useNavigate();
