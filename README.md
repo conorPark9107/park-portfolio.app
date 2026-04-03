@@ -1,2 +1,6 @@
-# Tech-Stack-Page
-This is my Tech Stack Page
+# Tech Stack Page
+
+## 🛠️ Stack
+- React
+- Tailwind
+- Styled-components
